@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Karl Gérard
 
-<!--
-**KarlGerard/KarlGerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software / Product Engineer based in Nantes, France.
 
-Here are some ideas to get you started:
+I’m finishing my engineering degree in Computer Science & Embedded Systems after three years of apprenticeship at Thales SIX GTS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building complete products, from backend and data pipelines to user-facing interfaces, with a strong interest in AI, product engineering, data and connected systems.
+
+## Main stack
+
+- Python / FastAPI
+- React / Next.js / TypeScript
+- REST APIs
+- Docker / Git / CI/CD
+- AWS / Data / Lakehouse
+- LLMs / RAG / Agents
+- Embedded systems / sensors / communication protocols
+
+## Selected projects
+
+- **L’Infinie de la Chaize** — live race tracking, mapping, dashboards and digital event experience
+- **Archipel** — local multi-agent AI environment with RAG, orchestration and privacy-focused tooling
+- **SmartSearch** — multimodal search engine with Vector Lakehouse, CLIP, RAG and LLM-assisted ingestion
+- **NAVBOX** — full-stack geospatial simulation system combining embedded C++, Python/FastAPI and React/TypeScript
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/karl-gérard-05b220224
+- Portfolio: coming soon
