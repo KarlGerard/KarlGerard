@@ -25,5 +25,5 @@ I enjoy building complete products, from backend and data pipelines to user-faci
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/karl-gérard-05b220224
-- Portfolio: coming soon
+- [LinkedIn](https://www.linkedin.com/in/karl-gérard-05b220224)
+- [Portfolio](https://portfolio-professionnel-omega.vercel.app/)
